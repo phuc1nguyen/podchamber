@@ -6,7 +6,7 @@ const init = async () => {
       const browser = await puppeteer.launch({ headless: 'new' });
       const page = await browser.newPage();
       await page.goto(
-        'https://www.podbean.com/podcast-detail/d4un8-57595/JavaScript-Jabber-Podcast'
+        'https://www.podbean.com/podcast-detail/x4gn6-297bd1/JavaScript-Jabber-Podcast'
       );
       let episodeLinks = await page.evaluate(() => {
         return Array.from(document.querySelectorAll('a.title')).map((item) => ({

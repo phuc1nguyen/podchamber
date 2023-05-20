@@ -13,3 +13,11 @@
 * [ ] User can see a summary above the episode table showing the number of episodes for each podcast
 * [ ] User can see a clickable checkbox next to each podcast name in the summary above the episode table
 * [ ] User can click the radio button next to the podcast name to include episodes for that podcast in the episode table
+
+## Notes
+
+* Switch to TS before building advanced version
+* Current list contains:
+  - [Javascript Jabbler](https://www.podbean.com/podcast-detail/x4gn6-297bd1/JavaScript-Jabber-Podcast)
+  - [Lex Fridman Podcast](https://www.podbean.com/podcast-detail/bx2gm-d974a/Lex-Fridman-Podcast)
+  - [Board Game Barrage](https://www.podbean.com/podcast-detail/nrqhq-6b053/Board-Game-Barrage-Podcast)
